@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.Cor{
+    width: 100vw;
+    height: 100vh;
+    background-color: #2CB3F3;
+}
+
+.Color{
+    width: 50vw;
+    height: 60vh;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    top: 0;
+    margin: auto;
+    background-color: #FFFFFF;
+    border-radius: 40px;
+}
+
+.Pain{
+    width: 40vw;
+    height: 40vh;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    top: 0;
+    margin: auto;
+    background-color: #FFE1C9;
+    border-radius: 100px;
+}
+
+h1,p{
+    text-align: center;
+    padding-top: 25px;
+}
+
+.Olhos{
+    width: 30px;
+    height: 30px;
+    background-color: #000000;
+    border-radius: 50px;
+    margin-left: 113px;
+}
+
+.Olho{
+    width: 30px;
+    height: 30px;
+    background-color: #000000;
+    border-radius: 50px;
+    margin-left: 270px;
+    margin-top: 25px;
+}
+
+.Nome{
+    padding: 40px;
+    padding-bottom: 1px;
+}
+
+.Email{
+    padding: 40px;
+}
